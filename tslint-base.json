@@ -1,9 +1,4 @@
 {
-  "linterOptions": {
-    "exclude": [
-      "**/__tests__/**/*"
-    ]
-  },
   "extends": [
     "tslint-react-recommended"
   ],
