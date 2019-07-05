@@ -1,0 +1,9 @@
+{
+  "name": "trueme-tslint-config",
+  "version": "0.1.0",
+  "main": "tslint-base.json",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint-react-recommended": "^1.0.15"
+  }
+}
