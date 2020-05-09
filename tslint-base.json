@@ -26,7 +26,8 @@
       true,
       {
         "singleline": "never",
-        "multiline": "always"
+        "multiline": "always",
+        "functions": "never"
       }
     ],
     "no-empty": false,
